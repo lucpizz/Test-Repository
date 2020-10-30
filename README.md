@@ -2,4 +2,4 @@
 
 **This repository was created by the new gh (GitHub) Cli.**
 
-_gh is a great new feature to GitHub!_
+_gh is a great new feature for GitHub!_
